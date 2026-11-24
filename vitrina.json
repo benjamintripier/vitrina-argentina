@@ -1,0 +1,18 @@
+{
+  "edicion": "Martes 24 de noviembre de 2026",
+  "datos_al": "Datos al cierre del lunes 23",
+  "lecturas": [
+    {"titulo": "Lo bueno", "texto": "El jueves se firma en París Argentina LNG, la mayor inversión privada de la historia del país: US$ 51.000 millones para exportar gas natural licuado de Vaca Muerta. Y mañana el Presupuesto 2027 llega al recinto de Diputados."},
+    {"titulo": "Lo que preocupa", "texto": "El riesgo país pasó los 1.000 puntos. El Gobierno lo atribuye a un shock internacional; el mercado, además, duda de cómo se pagarán los vencimientos de 2027. Y Brasil devaluó fuerte: el real perdió cerca de 20% en un mes."},
+    {"titulo": "Competitividad", "texto": "Por primera vez hay propuestas concretas para bajar impuestos provinciales. Nación ofrece pagar la mitad si las provincias eliminan Sellos, y Córdoba y Santa Fe ya anunciaron rebajas para 2027."},
+    {"titulo": "Nuestra lectura", "texto": "El ruido financiero es real, pero la economía real sigue sumando inversiones. Si diciembre trae leyes impositivas provinciales con menos Ingresos Brutos, la industria va a tener por fin una buena noticia."}
+  ],
+  "tablero": [
+    {"indicador": "Riesgo país", "valor": "+1.000 pb"},
+    {"indicador": "Dólar mayorista", "valor": "$ 1.580"},
+    {"indicador": "Oficial / blue", "valor": "$ 1.600 / $ 1.675"},
+    {"indicador": "MEP / CCL", "valor": "$ 1.701 / $ 1.720"},
+    {"indicador": "Inflación (octubre)", "valor": "2,2%"}
+  ],
+  "nota": "Cierre del lunes 23 de noviembre. Fuentes: Ámbito, INDEC y Secretaría de Finanzas."
+}
